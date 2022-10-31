@@ -47,7 +47,7 @@
 </details>
 
 
-<details open>
+<details>
   <summary><b>Open Source Projects</b></summary>
   <br/>
   <table>
