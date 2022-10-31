@@ -12,14 +12,6 @@
 - 💬 Ask me about deployment of ML models on Android apps.
 - 😄 Pronouns: He/They
 
-
-### My Stats
-
-![Chirag's github stats](https://github-readme-stats.vercel.app/api?username=ChiragKalra&show_icons=true&theme=radical&count_private=true) 
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragKalra&show_icons=true&theme=radical&langs_count=4)
-
-
 ### Programming Languages I've worked with
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
@@ -43,3 +35,46 @@
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Firebase)
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=Heroku)
+
+
+### More About Me
+
+<details>	
+  <summary><b>Github Stats</b></summary>
+  <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChiragKalra&show_icons=true&theme=radical&count_private=true" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragKalra&show_icons=true&theme=radical&langs_count=4&layout=compact"/>
+</details>
+
+
+<details>
+  <summary><b>Open Source Projects</b></summary>
+  <br/>
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Name</b></td>
+        <td><b>🌟 Description</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/ChiragKalra/Organiso"><b>Organiso</b></a></td>
+        <td>An android SMS app that automatically organises user's messages.</td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ChiragKalra/Organiso?style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/ChiragKalra/Fitter"><b>Fitter</b></a></td>
+        <td>A weight and workout tracking app that allows you to challenge your friends.</td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ChiragKalra/Fitter?style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/ChiragKalra/DustIt"><b>Dust It</b></a></td>
+        <td>An android app that helps you clean up your gallery.</td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ChiragKalra/DustIt?style=flat-square"/></td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
+</details>
