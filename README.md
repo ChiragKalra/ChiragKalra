@@ -42,8 +42,8 @@
 <details open>
   <summary><b>Github Stats</b></summary>
   <br/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ChiragKalra&show_icons=true&theme=radical&count_private=true" /> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragKalra&show_icons=true&theme=radical&langs_count=4&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ChiragKalra&show_icons=true&theme=radical&count_private=true" /> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragKalra&show_icons=true&theme=radical&langs_count=4&layout=compact"/>
 </details>
 
 
