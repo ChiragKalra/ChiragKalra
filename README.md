@@ -4,7 +4,7 @@
 [![Codeforces](https://img.shields.io/badge/codeforces-f81414?logo=codeforces&logoColor=white&style=for-the-badge)](https://codeforces.com/profile/bruhascended)
 [![Resume](https://img.shields.io/badge/-Resume-2A52BE?style=for-the-badge)](https://drive.google.com/drive/folders/1BIKpWnHrO22y6HYpg4eq21q6KdvEPlRl?usp=share_link)
 
-### Hi there 👋 I am Chirag Kalra
+### Hi there 👋
 
 - 🔭 I’m currently working on [Dust It](https://github.com/ChiragKalra/DustIt)
 - 🌱 I’m currently learning ML Ops.
