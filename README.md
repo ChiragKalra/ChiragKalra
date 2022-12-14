@@ -1,8 +1,8 @@
-[![Resume](https://img.shields.io/badge/-Resume-2A52BE?style=for-the-badge)](https://drive.google.com/drive/folders/1BIKpWnHrO22y6HYpg4eq21q6KdvEPlRl?usp=share_li
+[![Resume](https://img.shields.io/badge/-Resume-2A52BE?style=for-the-badge)](https://drive.google.com/drive/folders/1BIKpWnHrO22y6HYpg4eq21q6KdvEPlRl?usp=share_link)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiragkalra5274@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiragkalra5274/)
 [![Stack Overflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/8112722/chirag-kalra)
-[![Codeforces](https://img.shields.io/badge/codeforces-f81414?logo=codeforces&logoColor=white&style=for-the-badge)](https://codeforces.com/profile/bruhascended)nk)
+[![Codeforces](https://img.shields.io/badge/codeforces-f81414?logo=codeforces&logoColor=white&style=for-the-badge)](https://codeforces.com/profile/bruhascended)
 
 ### Hi there 👋
 
