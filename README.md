@@ -39,7 +39,7 @@
 
 ### More About Me
 
-<details open>
+<details>
   <summary><b>Github Stats</b></summary>
   <br/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ChiragKalra&show_icons=true&theme=radical&count_private=true&PAT_1=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" /> 
