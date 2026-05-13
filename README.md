@@ -6,12 +6,6 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Dust It](https://github.com/ChiragKalra/DustIt)
-- 🌱 I’m currently learning ML Ops.
-- 👯 I’m looking to collaborate on ML Projects.
-- 💬 Ask me about deployment of ML models on Android apps.
-- 😄 Pronouns: He/They
-
 ### Programming Languages I've worked with
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
@@ -38,13 +32,6 @@
 
 
 ### More About Me
-
-<details>
-  <summary><b>Github Stats</b></summary>
-  <br/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ChiragKalra&show_icons=true&theme=radical&count_private=true&PAT_1=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" /> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragKalra&show_icons=true&theme=radical&langs_count=4&layout=compact&PAT_1=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"/>
-</details>
 
 
 <details>
